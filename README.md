@@ -114,7 +114,6 @@ class WhoAmI:
   <details style="border: none;">
     <summary><strong>Want to collaborate on projects with me?</strong></summary>
     <a href="mailto:leofreyrepersonal@gmail.com">
-      <br/>
       <img src="https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" 
            style="
                width: 100px; /* Cambia el tamaño del badge */
