@@ -58,6 +58,68 @@ I have always believed that everything you want to learn you can do by yourself.
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+
+ ## Who am I?
+ ```python
+class WhoAmI:
+    user = 'Leo Freyre'
+    current_learning = ["AWS", "Node JS", "Postgre SQL"]
+    hobbies = [
+        'Gym',
+        'Piano',
+        'Read',
+        'Learn Russian',
+        'Learn Estonian'
+    ]
+    
+    def getCity(self):
+        return 'Dubai'
+    
+    def Projects(self):
+        projects = [
+            'Building a personal website with AWS and Node.js',
+            'Mastering Estonian language skills',
+            'Composing and recording piano music',
+            'Reading and studying new books on technology and personal growth'
+        ]
+        return projects
+ ```
+ 
+## My Skills & Favorite Tools
+
+<h4> Languages </h4>
+<span> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+  <img src="https://img.shields.io/badge/bash-2E2E2E?style=for-the-badge&logo=gnu-bash&logoColor=white">
+</span>
+
+<h4> Tools and Technologies </h4>
+<span>
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C93?style=for-the-badge&logo=kali-linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white">
+  <img src="https://img.shields.io/badge/AnyDesk-4C4C4C?style=for-the-badge&logo=anydesk&logoColor=white">
+</span>
+
+##
+
+<h2 align="center">
+  <details style="border: none;">
+    <summary><strong>Want to collaborate on projects with me?</strong></summary>
+      <a href="mailto:leofreyrepersonal@gmail.com">
+        <br/>
+        <img src="https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" style="margin-top: 10px;" />
+      </a>
+  </details>
+</h2>
+
+
 <!-- FOOTER -->
 <div align="center" width="100">
   <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe"
