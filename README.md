@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<div style="display: flex; gap: 10px; align-items: center;">
+<div style="display: flex; gap: 5px; align-items: center;">
   <a href="https://www.linkedin.com/in/leo-freyre?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
   </a>
@@ -44,11 +44,6 @@ I have always believed that everything you want to learn you can do by yourself.
           <img src="https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=02569B" alt="Flutter">
           <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2496ED" alt="Docker">
         </p>
-      </td>
-      <td valign="top" width="50%" align="right">
-        <a href="https://github.com/Elanza-48" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api?username=elanza-48&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Stats" style="max-width: 100%;">
-        </a>
       </td>
     </tr>
   </table>
