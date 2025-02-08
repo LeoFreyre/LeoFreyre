@@ -1,20 +1,21 @@
-<h1 align="center">
+<h1 align="center" style="font-size: 2.5rem;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Leo+Freyre+👋+💻" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Leo+Freyre+👋+💻" alt="Typing SVG" />
   </a>
 </h1>
 
-<div style="display: flex; gap: 5px; align-items: center;">
+<div style="display: flex; gap: 5px; align-items: center; justify-content: center; flex-wrap: wrap;">
   <a href="https://www.linkedin.com/in/leo-freyre?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/leofreyre_?igsh=MXBhMjB4Z2hvcjZncw%3D%3D&utm_source=qr" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://x.com/leooofl_?s=21" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="X (Twitter)">
   </a>
 </div>
+
 
 I was born on January 11, 2008, in the midst of the boom and one of the best moments of technological and human evolution. From a very young age, my curiosity drove me to discover how things worked, always keeping me closely linked to the world of technology and entrepreneurship.
 
