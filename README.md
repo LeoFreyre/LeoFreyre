@@ -4,6 +4,8 @@
   alt="header"/>
 </div>
 
+<br/>
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Leo+Freyre+👋+💻" alt="Typing SVG" />
