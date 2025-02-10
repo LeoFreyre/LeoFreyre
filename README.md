@@ -106,7 +106,7 @@ class WhoAmI:
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
   <img src="https://img.shields.io/badge/Kali%20Linux-557C93?style=for-the-badge&logo=kali-linux&logoColor=white">
   <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white">
-  <img src="https://img.shields.io/badge/AnyDesk-4C4C4C?style=for-the-badge&logo=anydesk&logoColor=white">
+  <img src="https://img.shields.io/badge/AnyDesk-FF3A30?style=for-the-badge&logo=anydesk&logoColor=white">
 </span>
 
 ##
