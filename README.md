@@ -35,7 +35,6 @@ I have always believed that everything you want to learn you can do by yourself.
       <td valign="top" width="50%" align="left">
         <h3>🛠 &nbsp;My Tech Stack</h3>
         <p style="margin: 0;">
-          <img src="https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=DD0031" alt="Angular">
           <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB" alt="React">
           <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" alt="Node.js">
           <img src="https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs&logoColor=E0234E" alt="NestJS">
