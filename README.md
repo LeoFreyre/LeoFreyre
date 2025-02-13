@@ -4,11 +4,13 @@
   alt="header"/>
 </div>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Leo+Freyre+👋+💻" alt="Typing SVG" />
-  </a>
-</h1>
+<div align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFFFFF&width=500&lines=Hi%2C+I'm+Leo+Freyre+👋+💻"
+    alt="Typing SVG"
+    style="width: 600px; height: auto;"
+  />
+</div>
 
 <div style="display: flex; gap: 5px; align-items: center; justify-content: center; flex-wrap: wrap;">
   <a href="https://www.linkedin.com/in/leo-freyre?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
