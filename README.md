@@ -65,24 +65,20 @@ I've always believed that everything u want to learn u can do by yourself. I'm p
  ## Who am I?
  ```python
 class WhoAmI:
-    user = 'Leo Freyre'
-    current_learning = ["AWS", "Node JS", "React.js"]
-    hobbies = [
-        'Gym',
-        'Read',
-        'Chess',
-    ]
-    
-    def getCity(self):
+    def __init__(self):
+        self.user = 'Leo Freyre'
+        self.current_learning = ["AWS", "Node JS", "React.js"]
+        self.hobbies = ['Gym', 'Read', 'Chess']
+
+    def get_city(self):
         return 'Dubai'
     
-    def Projects(self):
-        projects = [
+    def get_projects(self):
+        return [
             'Developing a personal website with React.js',
             'Learning Russian language skills',
             'Building a Software as a Service with AI',
         ]
-        return projects
  ```
  
 ## My Skills & Favorite Tools
