@@ -66,13 +66,11 @@ I've always believed that everything u want to learn u can do by yourself. I'm p
  ```python
 class WhoAmI:
     user = 'Leo Freyre'
-    current_learning = ["AWS", "Node JS", "Postgre SQL"]
+    current_learning = ["AWS", "Node JS", "React.js"]
     hobbies = [
         'Gym',
-        'Piano',
         'Read',
-        'Learn Russian',
-        'Learn Estonian'
+        'Chess',
     ]
     
     def getCity(self):
@@ -80,10 +78,9 @@ class WhoAmI:
     
     def Projects(self):
         projects = [
-            'Building a personal website with AWS and Node.js',
-            'Mastering Estonian language skills',
-            'Composing and recording piano music',
-            'Reading and studying new books on technology and personal growth'
+            'Developing a personal website with React.js',
+            'Learning Russian language skills',
+            'Building a Software as a Service with AI',
         ]
         return projects
  ```
