@@ -63,22 +63,22 @@ I've always believed that everything u want to learn u can do by yourself. I'm p
 
 
  ## Who am I?
- ```python
-class WhoAmI:
-    def __init__(self):
-        self.user = 'Leo Freyre'
-        self.current_learning = ["AWS", "Node JS", "React.js"]
-        self.hobbies = ['Gym', 'Read', 'Chess']
+ ```typescript
+class WhoAmI {
+    user: string;
+    hobbies: string[];
 
-    def get_city(self):
-        return 'Dubai'
-    
-    def get_projects(self):
-        return [
-            'Developing a personal website with React.js',
-            'Learning Russian language skills',
-            'Building a Software as a Service with AI',
-        ]
+    constructor() {
+        this.user = 'Leo Freyre';
+        this.hobbies = ['Gym', 'Read', 'Chess'];
+    }
+
+    getCity(): string {
+        return 'Dubai';
+    }
+}
+
+export default WhoAmI;
  ```
  
 ## My Skills & Favorite Tools
@@ -93,7 +93,7 @@ class WhoAmI:
   <img src="https://img.shields.io/badge/bash-2E2E2E?style=for-the-badge&logo=gnu-bash&logoColor=white">
 </span>
 
-<h4> Tools and Technologies </h4>
+<h4> Tools and Technologies That I like </h4>
 <span>
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
