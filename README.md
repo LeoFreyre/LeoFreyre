@@ -8,7 +8,7 @@
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=666666&width=500&lines=Hi%2C+I'm+Leo+Freyre+👋+💻"
     alt="Typing SVG"
-    style="width: 600px; height: auto;"
+    style="width: 600px; height: 100px;"
   />
 </div>
 
