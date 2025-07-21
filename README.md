@@ -25,9 +25,9 @@
 </div>
 
 
-I was born on January 11, 2008, in the midst of the boom and one of the best moments of technological and human evolution. From a very young age, my curiosity drove me to discover how things worked, always keeping me closely linked to the world of technology and entrepreneurship.
+I was born on January 2008, right in the middle of one of the most exciting times for technology and human progress. From a young age, I’ve always been curious about how things work, and that naturally led me into the world of technology and entrepreneurship.
 
-I've always believed that everything u want to learn u can do by yourself. I'm passionate about developing projects, seeing how they evolve and how people take advantage of them. I enjoy creating systems that make life easier and provide practical solutions, taking advantage of each challenge as an opportunity to grow and transform ideas into concrete realities.
+I’ve always believed that if you genuinely want to learn something, you’ve got the ability to do it without having to rely on external help. I’m passionate about building projects, watching them grow, and seeing how people use them in their everyday lives. I enjoy creating systems that make life simpler and more practical, turning every challenge into a chance to grow and bring ideas to life.
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
